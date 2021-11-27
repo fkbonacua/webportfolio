@@ -1,8 +1,19 @@
 *{
-	font-family: serif;
-	font: American Typewriter;
+	font-family: monospace;
+	font: Monaco;
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
+}
+
+.fab{
+	font-size: 2rem;
+	color: white;
+}
+
+.aboutMe{
+	font-family: monospace;
+	font: Courier New;
+	font-size: 2rem;
 }
 
